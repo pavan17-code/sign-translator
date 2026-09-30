@@ -1,0 +1,162 @@
+[1m[33m
+Warning: This is a simple server for use in testing or debugging Angular applications
+locally. It hasn't been reviewed for security issues.
+
+Binding this server to an open connection can result in compromising your application or
+computer. Using a different host than the one passed to the "--host" flag might result in
+websocket connection issues.
+    [39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonMenu is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:31:4:
+[37m      31 │     [32mIonMenu[37m,
+         ╵     [32m~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonHeader is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:32:4:
+[37m      32 │     [32mIonHeader[37m,
+         ╵     [32m~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonToolbar is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:33:4:
+[37m      33 │     [32mIonToolbar[37m,
+         ╵     [32m~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonTitle is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:34:4:
+[37m      34 │     [32mIonTitle[37m,
+         ╵     [32m~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonList is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:36:4:
+[37m      36 │     [32mIonList[37m,
+         ╵     [32m~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonListHeader is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:37:4:
+[37m      37 │     [32mIonListHeader[37m,
+         ╵     [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonLabel is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:38:4:
+[37m      38 │     [32mIonLabel[37m,
+         ╵     [32m~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonMenuToggle is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:39:4:
+[37m      39 │     [32mIonMenuToggle[37m,
+         ╵     [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonItem is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:40:4:
+[37m      40 │     [32mIonItem[37m,
+         ╵     [32m~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: RouterLink is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:41:4:
+[37m      41 │     [32mRouterLink[37m,
+         ╵     [32m~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonFooter is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:42:4:
+[37m      42 │     [32mIonFooter[37m,
+         ╵     [32m~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonButton is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:43:4:
+[37m      43 │     [32mIonButton[37m,
+         ╵     [32m~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: TranslocoPipe is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:44:4:
+[37m      44 │     [32mTranslocoPipe[37m,
+         ╵     [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonButtons is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:45:4:
+[37m      45 │     [32mIonButtons[37m,
+         ╵     [32m~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonMenuButton is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:46:4:
+[37m      46 │     [32mIonMenuButton[37m,
+         ╵     [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonIcon is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:47:4:
+[37m      47 │     [32mIonIcon[37m,
+         ╵     [32m~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LogoComponent is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:50:4:
+[37m      50 │     [32mLogoComponent[37m,
+         ╵     [32m~~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonButtons is not used within the template of TranslateDesktopComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/translate/translate-desktop/translate-desktop.component.ts:27:4:
+[37m      27 │     [32mIonButtons[37m,
+         ╵     [32m~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: IonButton is not used within the template of TranslateDesktopComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/translate/translate-desktop/translate-desktop.component.ts:38:4:
+[37m      38 │     [32mIonButton[37m,
+         ╵     [32m~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: RouterLink is not used within the template of TranslateDesktopComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/translate/translate-desktop/translate-desktop.component.ts:39:4:
+[37m      39 │     [32mRouterLink[37m,
+         ╵     [32m~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LandingFooterComponent is not used within the template of TranslateDesktopComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/translate/translate-desktop/translate-desktop.component.ts:37:4:
+[37m      37 │     [32mLandingFooterComponent[37m,
+         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LandingFooterComponent is not used within the template of LandingComponent[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/landing/landing.component.ts:11:38:
+[37m      11 │   imports: [IonContent, RouterOutlet, [32mLandingFooterComponent[37m],
+         ╵                                       [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[39m[22m
